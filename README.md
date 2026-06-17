@@ -44,7 +44,7 @@ See the [Yazi flavor documentation](https://yazi-rs.github.io/docs/flavors/overv
 
 ## Credits
 
-- [Monokai Pro](https://monokai.pro/) by Wimer Hazenberg — original color palette.
+- [Monokai Pro](https://monokai.pro/) by [Wimer Hazenberg](https://github.com/Monokai)
 - [Yazi](https://github.com/sxyazi/yazi) and its [flavor spec](https://yazi-rs.github.io/docs/flavors/overview).
 
 ## License
